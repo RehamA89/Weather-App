@@ -1,0 +1,50 @@
+form {
+  margin-top: 50px;
+}
+
+button {
+  background: rgb(3, 197, 3);
+  padding: 6px 26px 6px 26px;
+  border-radius: 6px;
+  font-family: "Roboto", sans-serif;
+  color: white;
+  font-size: 16px;
+  border: 1px solid rgb(3, 197, 3);
+}
+button:hover {
+  background: rgb(12, 134, 12);
+}
+
+.temperature {
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+}
+.weather-app {
+  padding-left: 45px;
+  padding-bottom: 30px;
+  border: 1px solid grey;
+  margin: 20px;
+  max-width: 600px;
+  font-family: "Roboto", sans-serif;
+}
+.today-icon {
+  font-size: 300px;
+  color: gold;
+  margin-left: 15px;
+  font-size: 35px;
+}
+.thursday-icon {
+  font-size: 30px;
+  color: blue;
+  margin-left: 20px;
+}
+.friday-icon {
+  font-size: 30px;
+  color: gray;
+  margin-left: 25px;
+}
+.saturday-icon {
+  font-size: 30px;
+  color: gold;
+  margin-left: 25px;
+}
